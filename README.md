@@ -1,8 +1,8 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 
-# Name: PRIYESH S
-# Register Number: 212224040256
+# Name: KIRAN KUMAR CS
+# Register Number: 212224240076
 
 # AIM:
 To Write a C program that illustrates files copying and locking
